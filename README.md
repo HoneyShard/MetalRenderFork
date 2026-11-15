@@ -1,3 +1,8 @@
+> **Unofficial modified fork.** This is not an Official Release of MetalRender
+> and is not endorsed by its original author, Pebbles_boon.
+> Original project: https://github.com/webblepebbles/metalrender
+> See [NOTICE.md](NOTICE.md) and [LICENSE.md](LICENSE.md).
+
 # MetalRender
 
 **MetalRender** is a custom rendering backend for Minecraft by pebbles_boon.  
