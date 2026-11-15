@@ -25,6 +25,8 @@ available under those terms. The Git history preserves it unchanged.
 
 - Removed `AGENTS.md`, `CLAUDE.md`, `CODEX.md` and `GEMINI.md`
   (commit `92e829a`).
+- Added a new `CLAUDE.md` containing this fork's own maintenance and
+  licensing rules. It is not the upstream file of the same name.
 - Added `NOTICE.md` and `THIRD_PARTY_NOTICES.md`, and an unofficial-fork
   notice at the top of `README.md`.
 - Further changes are listed in the Git history. Modified files carry
